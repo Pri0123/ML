@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E4C3-DE55
+
+ Directory of C:\Users\priya\demo_git\ML
+
+03/09/2021  03:13 PM    <DIR>          .
+03/09/2021  03:13 PM    <DIR>          ..
+03/08/2021  07:18 PM               302 .gitignore
+03/09/2021  03:13 PM                 0 Abs.txt
+03/08/2021  07:18 PM                19 README.md
+03/09/2021  03:06 PM                 7 test1.txt
+03/08/2021  07:21 PM               450 text.txt
+               5 File(s)            778 bytes
+               2 Dir(s)  42,613,657,600 bytes free
